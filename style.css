@@ -1,0 +1,27 @@
+h2{
+	color: yellow;
+	font-size: 34px;
+	font-family: monospace; 
+}
+a{
+	text-decoration: none;
+}
+p{
+	text-justify: center;
+	text-justify: justify;
+}
+.card {
+	text-align: center;
+	background-color: pink;
+	padding: 40px;
+	margin: 30px
+
+}
+.vrom{
+	width: 500px
+	margin: 0;
+}
+
+body{
+	background-color: yellow;
+}
